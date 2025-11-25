@@ -4,3 +4,6 @@ remote_theme: just-the-docs/just-the-docs
 # Optional, but nice:
 description: Annotation guidelines for hype-related adjectives in scientific writing
 color_scheme: dark
+search_enabled: true
+search:
+  button: true
