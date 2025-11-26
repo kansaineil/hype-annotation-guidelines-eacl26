@@ -4,10 +4,11 @@ nav_order: 1
 ---
 
 # Hype Annotation Guidelines
+These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide (i) general decision criteria that apply to all adjectives, (ii) explanations of the criteria and underlying rationale, and (iii) adjective-specific guidance with examples where more detailed interpretation is required.
 
-## Annotation Logic Summary
+## Overview of annotation steps
 
-| Step | Decision Dimension | Key Check |
+| Step | Decision  | Key Check |
 |------|------------------|-----------|
 | **1** | **Value-judgement** | Does it *evaluate* the work rather than merely describe it? |
 | **2** | **Hyperbolic** | Is the evaluation *exaggerated* or *extreme*? |
