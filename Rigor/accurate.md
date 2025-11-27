@@ -12,8 +12,8 @@ parent: Rigor
 | **3a. Gratuitous** | Potentially redundant with nouns that presuppose correctness (see table below) |
 | **3b. Amplified** | Often intensified by boosters (highly, very) |
 | **3c. Broader context** | Often appears in stacked adjective phrases |
-| **3d. Grounds** | Often justified by evidence (accurate to ##%; accurate for X, but not for Y) (reduces hype) |
-| **3e. Relative / Hedged** | Often framed in relative terms (more accurate) (reduce hype) |
+| **3d. Grounds** | Often justified by evidence (accurate to ##%) (reduces hype) |
+| **3e. Relative / Hedged** | Often framed in relative terms ("more accurate" - comparative framing) (reduce hype) |
 
 ---
 
