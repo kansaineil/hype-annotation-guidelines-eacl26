@@ -66,10 +66,10 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Question:** Does the adjective add a postive value judgement?
 
-**YES → Potentially HYPE**  
+**YES → Potentially HYPE** (Most adjectives imply a value judgement)
 → Continue to Step 2.
 
-**NO → Likely NOT HYPE**  
+**NO → Likely NOT HYPE** (Typically, proper nouns, technical/domain-specific and literal meaning)
 → Code as NOT HYPE.
 
 [Back to overview](#overview)
@@ -114,7 +114,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 | Pattern type | Generic pattern |
 |--------------|----------------|
 | Adverbial booster | “X is highly / very / extremely / fully / completely [adjective]” |
-| Intensifying stance verb | “Results demonstrate X is [adjective]” |
+| Intensifying stance verb | “ Method X ensures|guarantees [adjective] results”|
 
 **NO →** Continue to Step 3c.
 
@@ -149,7 +149,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **Question:** Are broader context signals present?
 
 **YES → HYPE**  
-- Stacking with other hype adjectives  
+- Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
 - Promotional context nearby
 
 **NO →** Continue to Step 3e.
@@ -162,7 +162,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 ### Step 3e. Relative / Hedged
 
 **Question:**  
-Is the framing relative or hedged?
+Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
 
 **YES → NOT HYPE**
 
@@ -170,9 +170,9 @@ Is the framing relative or hedged?
 |--------------|----------------|
 | Comparative | “X is more [adjective] than Y” |
 | Negative limitation | “There is a lack of [adjective] methods …” |
-| Change framing | “This leads to increased [adjective] performance under condition C” |
+| Change framing | “This leads to increasingly [adjective] performance under condition C” |
+| Scope restriction | “For specific cases, results are [adjective]” |
 | Modal hedging | “The approach may be [adjective]” |
-| Scope restriction | “For specific cases, results are relatively [adjective]” |
 
 **NO →** Consider cumulative effect of criteria
 
