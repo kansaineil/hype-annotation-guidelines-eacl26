@@ -19,15 +19,15 @@ parent: Rigor
 
 ### Noun semantics affecting *accurate*
 
-Some nouns make *accurate* necessary; others make it potentially gratuitous.
+Some nouns **require** correctness for meaning; others make *accurate* **stylistically optional**.
 
-| Noun category | Noun implication | Example nouns | Effect on interpretation |
-|--------------|-----------------|--------------|-------------------------|
-| Outcome-entailing | Correctness is presupposed | diagnosis, detection, replication, test | *accurate* may be redundant → can be hype |
-| Borderline | Correctness sometimes implied | data, information, assessment, model | Use other criteria (3b–3e) |
-| Degree-variable | Correctness varies by degree | measurement, prediction, estimation | *accurate* adds meaning → not hype |
+| Noun category & implication | Example nouns | Effect on interpretation |
+|---------------------------|---------------|-------------------------|
+| **Outcome-entailing** — correctness is already assumed | diagnosis, detection, replication, test | *accurate* may be redundant → potential hype (3a) |
+| **Borderline** — correctness sometimes implied | data, information, assessment, model | Check other criteria (3b–3e) |
+| **Degree-variable** — correctness varies by degree | measurement, prediction, estimation | *accurate* adds meaning → not hype (3a) |
 
-> Consult this table when applying **3a. Gratuitous**.
+> Use this table when applying **3a. Gratuitous**.
 
 ---
 
