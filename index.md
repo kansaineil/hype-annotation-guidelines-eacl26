@@ -11,17 +11,15 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ## Overview of annotation steps
 
-## Unified overview of annotation steps
-
-| Order | Level | Decision | Type | Effect |
-|------:|------:|----------|------|--------|
-| **1** | **0** | [Value-judgement](#step1) | Gatekeeping | If **NO** → Not hype (stop) |
-| **2** | **1** | [Hyperbolic](#step2) | Strong override | If **YES** → Hype |
-| **3a** | **2a** | [Gratuitous](#step3a) | Hype-increasing | Adds promotional force |
-| **3b** | **2a** | [Amplified](#step3b) | Hype-increasing | Adds promotional force |
-| **3c** | **2a** | [Broader context](#step3c) | Hype-increasing | Adds promotional force |
-| **3d** | **2b** | [Grounds](#step3d) | Hype-reducing | Counters promotional force |
-| **3e** | **2b** | [Relative / Hedged](#step3e) | Hype-reducing | Counters promotional force |
+| Order | Decision | Type | Effect |
+|------:|----------|------|--------|
+| **1** | [Value-judgement](#step1) | Gatekeeping | If **NO** → Not hype (stop) |
+| **2** | [Hyperbolic](#step2) | Strong override | If **YES** → Hype |
+| **3a** | [Gratuitous](#step3a) | Hype-increasing | Adds promotional force |
+| **3b** | [Amplified](#step3b) | Hype-increasing | Adds promotional force |
+| **3c** | [Broader context](#step3c) | Hype-increasing | Adds promotional force |
+| **3d** | [Grounds](#step3d) | Hype-reducing | Counters promotional force |
+| **3e** | [Relative / Hedged](#step3e) | Hype-reducing | Counters promotional force |
 
 ---
 
