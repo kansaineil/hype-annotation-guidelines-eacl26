@@ -9,7 +9,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ---
 
-## Overview of annotation criteria
+## (i) Overview of annotation criteria
 
 | Order | Decision | Type | Effect |
 |------:|----------|------|--------|
@@ -23,7 +23,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ---
 
-### (i) Decision flow (priority logic)
+### Decision flow (priority logic)
 
 ```text
 Value-judgement?
