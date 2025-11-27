@@ -6,9 +6,9 @@ nav_order: 1
 # Hype Annotation Guidelines
 
 These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide:  
-(i) an overview of the general annotation criteria,  
-(ii) explanations of the criteria and underlying rationale, and  
-(iii) links to adjective-specific guidance with examples where more detailed interpretation is required.
+1. An overview of the general annotation criteria,  
+2. Explanations of the criteria, and  
+3. Links to adjective-specific guidance.
 
 ---
 
