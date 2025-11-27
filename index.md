@@ -60,8 +60,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step1"></a>
 ### Step 1. Value-judgement
 
-**Question:**  
-Does the adjective evaluate the work rather than simply describe it?
+**Question:** Does the adjective evaluate the work rather than simply describe it?
 
 **YES → Potentially HYPE**  
 → Continue to Step 2.
@@ -76,8 +75,7 @@ Does the adjective evaluate the work rather than simply describe it?
 <a id="step2"></a>
 ### Step 2. Hyperbolic
 
-**Question:**  
-Is the adjective hyperbolic?
+**Question:** Is the adjective hyperbolic?
 
 **YES → HYPE**  
 - Relatively closed class (e.g., *revolutionary*, *groundbreaking*, *superb*, *tremendous*)
@@ -91,8 +89,7 @@ Is the adjective hyperbolic?
 <a id="step3a"></a>
 ### Step 3a. Gratuitous
 
-**Question:**  
-Is the adjective gratuitous, adding little to the propositional content?
+**Question:** Is the adjective gratuitous, adding little to the propositional content?
 
 **YES → HYPE**  
 - Removing the adjective does not change meaning
@@ -106,8 +103,7 @@ Is the adjective gratuitous, adding little to the propositional content?
 <a id="step3b"></a>
 ### Step 3b. Amplified
 
-**Question:**  
-Is the strength of the adjective amplified?
+**Question:** Is the strength of the adjective amplified?
 
 **YES → HYPE**
 
@@ -125,8 +121,7 @@ Is the strength of the adjective amplified?
 <a id="step3c"></a>
 ### Step 3c. Grounds
 
-**Question:**  
-Are grounds (i.e., justifications) given?
+**Question:** Are grounds (i.e., justifications) given?
 
 **YES → NOT HYPE**
 
@@ -147,8 +142,7 @@ Are grounds (i.e., justifications) given?
 <a id="step3d"></a>
 ### Step 3d. Broader context
 
-**Question:**  
-Are broader context signals present?
+**Question:** Are broader context signals present?
 
 **YES → HYPE**  
 - Stacking with other hype adjectives  
