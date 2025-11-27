@@ -68,7 +68,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **NO → Likely NOT HYPE**  
 → Code as NOT HYPE.
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -82,7 +82,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3a.
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -96,7 +96,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO → NOT HYPE**
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -114,7 +114,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3c.
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -135,7 +135,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3d.
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -150,7 +150,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3e.
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ---
 
@@ -172,7 +172,7 @@ Is the framing relative or hedged?
 
 **NO →** Consider cumulative effect of criteria
 
-[Back to overview](#overview-of-annotation-steps)
+[Back to overview](#overview-of-annotation-criteria)
 
 ## (iii) Adjective-specific guidance
 
