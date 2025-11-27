@@ -27,7 +27,7 @@ Some nouns make *accurate* necessary; others make it potentially gratuitous.
 | Outcome-entailing | Correctness is presupposed | diagnosis, detection, replication, test | *accurate* may be redundant → can be hype |
 | Borderline | Correctness sometimes implied | data, information, assessment, model | Use other criteria (3b–3e) |
 
-> Annotators should consult this table when applying **3a. Gratuitous**.
+> Consult this table when applying **3a. Gratuitous**.
 
 ---
 
@@ -35,7 +35,7 @@ Some nouns make *accurate* necessary; others make it potentially gratuitous.
 
 Annotate *accurate* as **hype** only when:
 - It does **not** add meaning (especially with outcome-entailing nouns), or
-- It is **amplified** or **stacked** without justification.
+- It is **amplified** or **stacked** without justification
 
 Otherwise → **not hype**.
 
@@ -43,28 +43,28 @@ Otherwise → **not hype**.
 
 ## Annotated examples for *accurate*
 
-### Not hype
+### Hype
 
-| Full sentence (as provided) | Interpretation (linked to criteria) |
-|-----------------------------|-------------------------------------|
-| The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … | Limitation framing; required for meaning → 3e Relative + Not gratuitous (3a) |
-| Our goal is to provide a more **accurate** picture of the significantly populated conformations … | Comparative improvement → 3e Relative |
-| The petrosal sinus sampling examination is the single most **accurate** test both for | Diagnostic performance grounded in measurement → 3d Grounds |
-| Long-term objectives will include a more **accurate** determination of the number of genes | Comparative framing → 3e Relative |
-| It is **accurate** to within a few percent and has a relative precision of | Empirical precision stated → 3d Grounds |
-| The device was equally **accurate** regardless of years of experience or level of training . | Comparative → 3e Relative |
-| Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . | Negative deterioration → 3e Relative |
+| Relevant criteria | Corpus example |
+|------------------|----------------|
+| 3b Amplified + 3c Broader context — boosted + stacked | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
+| 3a Gratuitous — outcome noun presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
+| 3a Gratuitous + 3c Broader context — presupposed + stacked | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
+| 3c Broader context — stacked with multiple evaluative adjectives | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
 
 ---
 
-### Hype
+### Not hype
 
-| Full sentence (as provided) | Interpretation (linked to criteria) |
-|-----------------------------|-------------------------------------|
-| Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of | Amplified (3b) + Stacked (3c) + promotional future claim |
-| Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen | Outcome-entailing noun → 3a Gratuitous + forward-promotional |
-| By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic | Outcome-entailing noun + stacking → 3a + 3c |
-| Provide **accurate** , timely , comprehensive , and standardized postmortem examinations | Strong stacking cluster → 3c Broader context |
+| Relevant criteria | Corpus example |
+|------------------|----------------|
+| 3e Relative / Hedged — accuracy expressed as a limitation | The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … |
+| 3e Relative / Hedged — improved accuracy in comparison | Our goal is to provide a more **accurate** picture of the significantly populated conformations … |
+| 3d Grounds — accuracy supported by diagnostic performance | The petrosal sinus sampling examination is the single most **accurate** test both for |
+| 3e Relative / Hedged — comparative framing | Long-term objectives will include a more **accurate** determination of the number of genes |
+| 3d Grounds — empirical precision stated | It is **accurate** to within a few percent and has a relative precision of |
+| 3e Relative / Hedged — comparison across users | The device was equally **accurate** regardless of years of experience or level of training . |
+| 3e Relative / Hedged — negative change relative to baseline | Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . |
 
 ---
 
