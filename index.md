@@ -60,7 +60,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step1"></a>
 ### Step 1. Value-judgement
 
-**Question:** Does the adjective evaluate the work rather than simply describe it?
+**Question:** Does the adjective add a postive value judgement?
 
 **YES → Potentially HYPE**  
 → Continue to Step 2.
@@ -92,7 +92,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **Question:** Is the adjective gratuitous, adding little to the propositional content?
 
 **YES → HYPE**  
-- Removing the adjective does not change meaning
+- Removing the adjective does not change meaning substanially
 
 **NO → NOT HYPE**
 
