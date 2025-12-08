@@ -41,7 +41,6 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 | 3a | gratuitous: outcome noun presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
 | 3a; 3c | gratuitous: presupposed noun; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
 | 3c | broader context: stacked with other evaluative adjectives | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
----
 
 ### Not hype
 
