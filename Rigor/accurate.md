@@ -54,6 +54,5 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 | 3e | relative: comparative framing | Long-term objectives will include a more **accurate** determination of the number of genes |
 | 3e | relative: comparison across users | The device was equally **accurate** regardless of years of experience or level of training . |
 | 3e | relative: negative change relative to baseline | Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . |
----
 
 [Back to Rigor](index.md) · [Back to top](#accurate--annotation-guidance-summary)
