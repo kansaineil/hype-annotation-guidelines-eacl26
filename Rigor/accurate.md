@@ -37,8 +37,8 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 
 | Relevant criteria | Comment | Corpus example |
 |------------------|---------|----------------|
-| 3b; 3c | amplified: “highly”; broader context: stacked with “reproducible” | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
 | 3a | gratuitous: "diagnosis"  presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
+| 3b; 3c | amplified: “highly”; broader context: stacked with “reproducible” | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
 | 3a; 3c | gratuitous: "determination" presuposes correctness; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
 | 3c | broader context: stacked with "timely" and "comprehensive" | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
 | 3d | grounds: "to within a few percent" | It is **accurate** to within a few percent and has a relative precision of |
