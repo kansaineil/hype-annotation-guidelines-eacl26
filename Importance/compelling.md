@@ -1,6 +1,6 @@
 --- 
 title: Compelling
-parent: Rigor
+parent: Importance
 ---
 
 ## Compelling – annotation guidance summary
