@@ -1,4 +1,4 @@
----
+--- 
 title: Compelling
 parent: Rigor
 ---
