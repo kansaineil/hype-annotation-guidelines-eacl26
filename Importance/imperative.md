@@ -3,12 +3,11 @@
 ---
 
 ### **1. Value-judgement**  
-Usually expresses a **strong value judgement**, signalling urgency or necessity.  
-In many cases, *imperative* could be replaced by a more neutral term such as *necessary* or *needed*.
+Eexpresses a **strong value judgement**, signalling urgency or necessity.  
+Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 
 <details>
 <summary><em>Examples</em></summary>
-
 *It is <u>**imperative**</u> that modifiable biological , social , and structural mechanisms driving these disparities be identified to inform interventions .*  
 *This knowledge is <u>**imperative**</u> to the development of effective stem cell - based photoreceptor replacement therapies .*
 
@@ -17,8 +16,8 @@ In many cases, *imperative* could be replaced by a more neutral term such as *ne
 ---
 
 ### **2. Hyperbolic**  
-Often **hyperbolic**, especially when asserting urgency without clear constraints.  
-Hyperbolicity may be reduced if strong counter-signals (e.g. grounds or limitation framing) are present.
+Often **hyperbolic**.  
+This may be reduced if strong counter-signals are present.
 
 <details>
 <summary><em>Examples</em></summary>
@@ -31,12 +30,14 @@ Hyperbolicity may be reduced if strong counter-signals (e.g. grounds or limitati
 
 ### **3a. Gratuitous**  
 Not usually gratuitous.  
-*Imperative* most often appears in **predicative constructions** where it carries the core stance of the clause (e.g. *it is imperative that…*).
+*Imperative* most often appears in **predicative constructions** (e.g. *it is imperative that…*) and is thus often not easilty removable. In attributive use, can suaully be removed (e.g. *an imperative need*)
 
 <details>
 <summary><em>Examples</em></summary>
 
 *It is <u>**imperative**</u> that all samples be processed within 24 hours.*
+
+*There is an <u>**imperative**</u> need to alter current strategies for the prevention and management of obesity in children .*
 
 </details>
 
@@ -44,37 +45,43 @@ Not usually gratuitous.
 
 ### **3b. Amplified**  
 Usually **not amplified**.  
-Additional boosters are uncommon and typically unnecessary given the inherent strength of *imperative*.
 
 <details>
 <summary><em>Examples</em></summary>
 
-*(amplification rare; no distinct pattern observed)*
+*This investigation on the role of synthetic cannabinoids and cannabinoid receptors CB1 and CB2 can open new therapeutic strategies toward the treatment of highly - fatal and chemo- resistant NSCLC , which is especially <u>**imperative**</u> considering the poor prognosis of NSCLC patients .*
+
+*Infectious disease with antibiotic resistance is considered the most <u>**imperative**</u> global health problem .*
 
 </details>
 
 ---
 
 ### **3c. Broader context**  
-Sometimes appears in **stacked urgency frames**, reinforcing promotional force.
+Rarely stacked.
 
 <details>
 <summary><em>Examples</em></summary>
 
-*Timely and <u>**imperative**</u> action is required to mitigate risk.*  
-*An <u>**imperative**</u> and urgent response is needed.*
+*We feel that it is <u>**imperative**</u> and urgent to overcome the obstacles to provide optimal HIV care , including virologic monitoring and DR testing , for patients receiving ART in resource limited settings .*  
 
 </details>
 
 ---
 
 ### **3d. Grounds**  
-Occasionally justified with explicit causal support, which can reduce promotionality.
+Frequently follows explicit reasoning (e.g. thus, therefore), in which case the necessity is grounded in prior explanation
 
 <details>
 <summary><em>Examples</em></summary>
 
-*This is <u>**imperative**</u> because early intervention significantly improves outcomes.*
+*Therefore it is <u>**imperative**</u> that the computing infrastructure on which those services depend the maintained in a state of optimum operational efficiency .*
+
+*Thus it is <u>**imperative**</u> to investigate issues of cellular replenishment and long - term fate using a large - brained , long - lived primate model that is evolutionarily close to humans .*
+
+*The magnitude of these expenditures makes it <u>**imperative**</u> for us to understand past and future trends in long - term care demand .*
+
+*For these reasons , and because such a study could not be conducted again given the drastic decline in the numbers of newborns available for adoption , it is <u>**imperative**</u> to capitalize on this opportunity to conduct the first prospective adoption study of adjustment during early adolescence .*
 
 </details>
 
@@ -87,17 +94,8 @@ Comparative or uncertainty markers with *imperative* are uncommon.
 <details>
 <summary><em>Examples</em></summary>
 
-*(relative or hedged uses rare)*
+NA
 
 </details>
 
 ---
-
-### **Summary guidance**
-
-Annotate *imperative* as **hype** when it:
-- Asserts urgency or necessity without technical constraint or justification, or
-- Appears in stacked urgency contexts.
-
-Treat as **not hype** when:
-- Clear grounds are provided that constrain the necessity claim.
