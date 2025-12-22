@@ -101,7 +101,7 @@ Relative or hedged framing (*more critical*, *likely*, *potentially*) attenuates
 <details>
 <summary><em>Examples</em></summary>
 
-*(captured in comparative uses such as “more critical”; no fully hedged examples in the provided set)*
+*The role of CIMP status in the pathogenesis of adenomas is a new and potentially <u>**critical**</u> area of investigation .*
 
 </details>
 
