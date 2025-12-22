@@ -6,7 +6,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Expresses a **strong value judgement**. Could usually be replaced by more neutral alternative.
+Yes - expresses a **strong value judgement**. Could usually be replaced by more neutral alternative.
 
 <details>
 <summary><em>Examples</em></summary>
@@ -18,8 +18,7 @@ Expresses a **strong value judgement**. Could usually be replaced by more neutra
 ---
 
 ### **2. Hyperbolic**  
-Often functions as a **strong evaluative extreme** (near-superlative).  
-Not metaphorical, but typically absolute in force.
+Often - yes. Functions as a **strong evaluative extreme** (near-superlative).  
 
 <details>
 <summary><em>Examples</em></summary>
@@ -45,7 +44,7 @@ Usually **gratuitous** when modifying nouns that already encode importance
 ---
 
 ### **3b. Amplified**  
-Rarely amplified; *paramount* typically already encodes maximal strength.
+Rarely amplified.
 
 <details>
 <summary><em>Examples</em></summary>
