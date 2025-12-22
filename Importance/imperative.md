@@ -70,7 +70,7 @@ Rarely stacked.
 ---
 
 ### **3d. Grounds**  
-Frequently follows explicit reasoning (e.g. thus, therefore), in which case the necessity is grounded in prior explanation
+Frequently follows explicit reasoning (e.g. thus, therefore, X makes it imperative), in which case the necessity is grounded in prior explanation
 
 <details>
 <summary><em>Examples</em></summary>
@@ -89,7 +89,6 @@ Frequently follows explicit reasoning (e.g. thus, therefore), in which case the 
 
 ### **3e. Relative / Hedged**  
 Rarely relative or hedged.  
-Comparative or uncertainty markers with *imperative* are uncommon.
 
 <details>
 <summary><em>Examples</em></summary>
