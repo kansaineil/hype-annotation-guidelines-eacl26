@@ -106,12 +106,3 @@ Relative or hedged framing (*more critical*, *likely*, *potentially*) attenuates
 </details>
 
 ---
-
-### **Note on technical vs evaluative uses**
-
-*Critical* should **not** be annotated as hype when it refers to:
-- a **required biological or mechanical function** (*critical mediator*, *critical regulator*),  
-- a **defined time window** (*critical period*), or  
-- a **disciplinary practice** (*critical thinking*, *critical analysis*).
-
-In these cases, the adjective contributes **technical information**, not promotional stance.
