@@ -8,7 +8,7 @@ parent: Importance
 ### **1. Value-judgement**  
 Yes - expresses persuasive force or credibility; evaluative rather than descriptive.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
 - *There is **compelling**evidence that the mechanism for bronchoconstriction is loss of heat from the airways …* 
