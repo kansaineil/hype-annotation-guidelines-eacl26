@@ -7,3 +7,4 @@ color_scheme: light
 search_enabled: true
 search:
   button: true
+markdown: kramdown
