@@ -87,8 +87,7 @@ Sometimes justified by grounds (*because, thus, therefore*).
 ---
 
 ### **3e. Relative / Hedged**  
-Common.
-- Relative: *more key*, *one of the key factors*  
+Common. 
 - Hedged: *may be key*, *could be key*
 
 <details>
