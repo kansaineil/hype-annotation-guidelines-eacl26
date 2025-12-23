@@ -6,7 +6,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Yes - expresses persuasive force or credibility; evaluative rather than descriptive.
+Yes - expresses persuasive force or credibility.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -34,9 +34,7 @@ NA
 ---
 
 ### **3a. Gratuitous**  
-Often gratuitous: adds evaluative stance without contributing new propositional content. 
-
-Nouns most often modified (usually gratuitous): *evidence; need; data; rationale; reasons; case; argument; candidate; support; findings; model; hypothesis; target; research; questions; opportunity; body (of research); results*
+Often gratuitous. Nouns most often modified (usually gratuitous): *evidence; need; data; rationale; reasons; case; argument; candidate; support; findings; model; hypothesis; target; research; questions; opportunity; body (of research); results*
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -56,7 +54,7 @@ Nouns most often modified (usually gratuitous): *evidence; need; data; rationale
 ---
 
 ### **3b. Amplified**  
-Sometimes amplified by boosters (*very*, *highly*, *extremely*, *particularly*, *the most*, *more*) **when used to boost persuasive strength**.  
+Sometimes amplified by boosters (*very*, *highly*, *extremely*, *particularly*, *the most*, *more*).  
 
 Comparatives indicating insufficiency (*more compelling evidence is needed*) do **not** count as amplification.
 
@@ -76,7 +74,7 @@ Comparatives indicating insufficiency (*more compelling evidence is needed*) do 
 ---
 
 ### **3c. Broader context**  
-Frequently appears in stacked persuasive or promotional environments.
+Frequently stacked  or in promotional environments.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -92,7 +90,7 @@ Frequently appears in stacked persuasive or promotional environments.
 ---
 
 ### **3d. Grounds**  
-Occasionally justified by explicit causal or evidential support.
+Occasionally grounds given.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
