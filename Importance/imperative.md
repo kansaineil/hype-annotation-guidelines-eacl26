@@ -5,8 +5,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Eexpresses a **strong value judgement**, signalling urgency or necessity.  
-Can usually be replaced by a more neutral term such as *necessary* or *needed*.
+Eexpresses a **strong value judgement**, signalling urgency or necessity. Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -20,8 +19,8 @@ Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 ---
 
 ### **2. Hyperbolic**  
-Often **hyperbolic**.  
-This may be reduced if strong counter-signals are present.
+Usually **hyperbolic**.  
+May be reduced if counter-signals are present.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>

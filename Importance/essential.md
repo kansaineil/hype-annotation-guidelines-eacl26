@@ -17,7 +17,7 @@ parent: Importance
 
 - *Such integrated maps are **essential** to making effective and complete use of the information being produced by the human genome project .*
 
-*This research is clearly **essential** to the mission of the NINDS .*
+- *This research is clearly **essential** to the mission of the NINDS .*
 
 - *In addition , it is recognized that **essential** amino acid ( EAA ) supplementation augments the skeletal muscle anabolic response to resistance exercise training .*  
 
@@ -27,8 +27,7 @@ parent: Importance
 
 ---
 
-### **2. Hyperbolic**  
-**No.**  
+### **2. Hyperbolic**   
 Not inherently hyperbolic
 
 <details markdown="1">
@@ -41,13 +40,11 @@ NA
 ---
 
 ### **3a. Gratuitous**  
-Consider gratuitious when it adds evaluative emphasis rather than technical necessity, particularly when modifying the following nouns:
+- When it adds evaluative emphasis rather than technical necessity, particularly when modifying the following nouns: *role, step, part, component* (in non-technical, organisational sense), *function* (when loosely used), *tool, information, knowledge, insight, question, issue, gap, aspect, contribution, resource, strategy*
+- When other resources already encode non-optionality (e.g. *necessary, critical*). 
+- In cases where *essential* is stacked with adjactives that encode non-optionality and can also represent hype (e.g. *critical, vital, important*), code as both gratuitious (3a) and broader context / stacked (3c).
 
-*role, step, part, component* (in non-technical, organisational sense), *function* (when loosely used), *tool, information, knowledge, insight, question, issue, gap, aspect, contribution, resource, strategy*
-
-Consider gratuitious when other resources already encode non-optionality (e.g. *necessary, critical*). In cases where *essential* is stacked with adjactive that encodes non-optionality and can also represent hype (e.g. *critical, vital, important*), code as both gratuitious (3a) and broader context / stacked (3c).
-
-**Not gratuitous** in technical, fixed meanings where non-optionality is encoded.
+**Not gratuitous** in technical, fixed meanings.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>

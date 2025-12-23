@@ -81,7 +81,7 @@ Sometimes justified by grounds (*because, thus, therefore*).
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *TThe specific accumulation of yolk proteins by the oocyte is a cornerstone of egg maturation and , therefore , a **key** element of reproductive physiology .*
+- *The specific accumulation of yolk proteins by the oocyte is a cornerstone of egg maturation and , therefore , a **key** element of reproductive physiology .*
 
 </details>
 

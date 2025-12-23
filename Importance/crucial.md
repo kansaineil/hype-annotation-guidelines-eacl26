@@ -6,7 +6,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Almost always **yes**. *Crucial* expresses strong importance or necessity - can be replaced by a more neutral alternative (*necessary*, *required*, *central*). 
+Almost always **yes**. Expresses strong importance or necessity - can be replaced by a more neutral alternative (*necessary*, *required*, *central*). 
 
 Even when modifying technical nouns (e.g. *regulator, function, mechanism, pathway*), *crucial* typically adds evaluative emphasis.
 <details markdown="1">
