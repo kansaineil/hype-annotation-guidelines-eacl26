@@ -10,10 +10,10 @@ parent: Importance
 **Almost always yes.**  *Important* expresses **evaluative importance or salience**. Rarely encodes technical property.
 
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*The results of this research will provide **important** information regarding the impact of the preweaning maternal environment on the development of the sympathetic - adrenal medullary system in genetically hypertensive and normotensive rats .*  
+- *The results of this research will provide **important** information regarding the impact of the preweaning maternal environment on the development of the sympathetic - adrenal medullary system in genetically hypertensive and normotensive rats .*  
 
 </details>
 
@@ -22,7 +22,7 @@ parent: Importance
 ### **2. Hyperbolic**  
 Not inherently hyperbolic.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
 NA
@@ -34,11 +34,12 @@ NA
 ### **3a. Gratuitous**  
 Often **gratuitous**. Common nouns: *role, implication, information, insight, question, component, step, factor, aspect, cause, mechanism, goal, regulator, determinant, part, risk, issue, research, target, area, function, problem, contribution, tool, clue, data, model, source, advance, gap, feature, mediator, class*
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*The liver plays an **important** role in the regulation of plasma LDL concentrations since Greater Than 50 % of LDL catabolism occurs in this organ ( at least in the hamster and rat ) .*  
-*The results of these studies could have **important** implications for our understanding and control of human autoimmune diseases such as rheumatoid arthritis .*
+- *The liver plays an **important** role in the regulation of plasma LDL concentrations since Greater Than 50 % of LDL catabolism occurs in this organ ( at least in the hamster and rat ) .*  
+
+- *The results of these studies could have **important** implications for our understanding and control of human autoimmune diseases such as rheumatoid arthritis .*
 
 </details>
 
@@ -50,10 +51,10 @@ Frequently amplified.
 Common boosters:  
 *the most, very, highly, particularly, especially, extremely, fundamentally*
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Because the extent of platelet activation is such an **important** determinant of vascular pathology , it is very **important** to understand how platelet activation and aggregation are regulated .*
+- *Because the extent of platelet activation is such an **important** determinant of vascular pathology , it is very **important** to understand how platelet activation and aggregation are regulated .*
 
 </details>
 
@@ -64,10 +65,10 @@ Often **stacked** (e.g. *novel, timely, unique, relevant, innovative, challengin
 *).
 Broader context often promotional.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*The purpose of this proposal is to address **important** and unanswered questions regarding the etiology of oral cancer and to develop preventive strategies based on this information .*
+- *The purpose of this proposal is to address **important** and unanswered questions regarding the etiology of oral cancer and to develop preventive strategies based on this information .*
 
 </details>
 
@@ -76,10 +77,10 @@ Broader context often promotional.
 ### **3d. Grounds**  
 Sometimes justified by explanation (*because, therefore*).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Because the extent of platelet activation is such an **important** determinant of vascular pathology , it is very **important** to understand how platelet activation and aggregation are regulated .*
+- *Because the extent of platelet activation is such an **important** determinant of vascular pathology , it is very **important** to understand how platelet activation and aggregation are regulated .*
 
 </details>
 
@@ -91,10 +92,10 @@ Common.
 - Relative: *more important*, *most important*  
 - Hedged: *may be important*, *potentially important*
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*No study has yet investigated all these potentially **important** causes of variation .*
+- *No study has yet investigated all these potentially **important** causes of variation .*
 
 </details>
 

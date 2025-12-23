@@ -8,10 +8,12 @@ parent: Importance
 Eexpresses a **strong value judgement**, signalling urgency or necessity.  
 Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
-*It is <u>**imperative**</u> that modifiable biological , social , and structural mechanisms driving these disparities be identified to inform interventions .*  
-*This knowledge is <u>**imperative**</u> to the development of effective stem cell - based photoreceptor replacement therapies .*
+
+- *It is **imperative** that modifiable biological , social , and structural mechanisms driving these disparities be identified to inform interventions .*  
+
+- *This knowledge is **imperative** to the development of effective stem cell - based photoreceptor replacement therapies .*
 
 </details>
 
@@ -21,10 +23,10 @@ Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 Often **hyperbolic**.  
 This may be reduced if strong counter-signals are present.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Immediate intervention is <u>**imperative**</u> to ensure success.*
+- *Immediate intervention is **imperative** to ensure success.*
 
 </details>
 
@@ -34,12 +36,12 @@ This may be reduced if strong counter-signals are present.
 Not usually gratuitous.  
 *Imperative* most often appears in **predicative constructions** (e.g. *it is imperative that…*) and is thus often not easilty removable. In attributive use, can suaully be removed (e.g. *an imperative need*)
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*It is <u>**imperative**</u> that all samples be processed within 24 hours.*
+- *It is **imperative** that all samples be processed within 24 hours.*
 
-*There is an <u>**imperative**</u> need to alter current strategies for the prevention and management of obesity in children .*
+- *There is an **imperative** need to alter current strategies for the prevention and management of obesity in children .*
 
 </details>
 
@@ -48,12 +50,12 @@ Not usually gratuitous.
 ### **3b. Amplified**  
 Usually **not amplified**.  
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*This investigation on the role of synthetic cannabinoids and cannabinoid receptors CB1 and CB2 can open new therapeutic strategies toward the treatment of highly - fatal and chemo- resistant NSCLC , which is especially <u>**imperative**</u> considering the poor prognosis of NSCLC patients .*
+- *This investigation on the role of synthetic cannabinoids and cannabinoid receptors CB1 and CB2 can open new therapeutic strategies toward the treatment of highly - fatal and chemo- resistant NSCLC , which is especially **imperative** considering the poor prognosis of NSCLC patients .*
 
-*Infectious disease with antibiotic resistance is considered the most <u>**imperative**</u> global health problem .*
+- *Infectious disease with antibiotic resistance is considered the most **imperative** global health problem .*
 
 </details>
 
@@ -62,10 +64,10 @@ Usually **not amplified**.
 ### **3c. Broader context**  
 Rarely stacked.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*We feel that it is <u>**imperative**</u> and urgent to overcome the obstacles to provide optimal HIV care , including virologic monitoring and DR testing , for patients receiving ART in resource limited settings .*  
+- *We feel that it is **imperative** and urgent to overcome the obstacles to provide optimal HIV care , including virologic monitoring and DR testing , for patients receiving ART in resource limited settings .*  
 
 </details>
 
@@ -74,16 +76,16 @@ Rarely stacked.
 ### **3d. Grounds**  
 Frequently follows explicit reasoning (e.g. thus, therefore, X makes it imperative), in which case the necessity is grounded in prior explanation
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Therefore it is <u>**imperative**</u> that the computing infrastructure on which those services depend the maintained in a state of optimum operational efficiency .*
+- *Therefore it is **imperative** that the computing infrastructure on which those services depend the maintained in a state of optimum operational efficiency .*
 
-*Thus it is <u>**imperative**</u> to investigate issues of cellular replenishment and long - term fate using a large - brained , long - lived primate model that is evolutionarily close to humans .*
+- *Thus it is **imperative** to investigate issues of cellular replenishment and long - term fate using a large - brained , long - lived primate model that is evolutionarily close to humans .*
 
-*The magnitude of these expenditures makes it <u>**imperative**</u> for us to understand past and future trends in long - term care demand .*
+- *The magnitude of these expenditures makes it **imperative** for us to understand past and future trends in long - term care demand .*
 
-*For these reasons , and because such a study could not be conducted again given the drastic decline in the numbers of newborns available for adoption , it is <u>**imperative**</u> to capitalize on this opportunity to conduct the first prospective adoption study of adjustment during early adolescence .*
+- *For these reasons , and because such a study could not be conducted again given the drastic decline in the numbers of newborns available for adoption , it is **imperative** to capitalize on this opportunity to conduct the first prospective adoption study of adjustment during early adolescence .*
 
 </details>
 
@@ -92,7 +94,7 @@ Frequently follows explicit reasoning (e.g. thus, therefore, X makes it imperati
 ### **3e. Relative / Hedged**  
 Rarely relative or hedged.  
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
 NA

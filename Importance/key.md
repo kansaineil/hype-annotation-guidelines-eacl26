@@ -11,11 +11,12 @@ In most academic prose it **evaluates importance** rather than describing a fixe
 
 **Not a value judgement** when *key* refers to a **technical object/function** (e.g.  *key residue*) - rare.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*This pathway plays a **key** role in immune regulation.*  
-*Mutations in this gene are a **key** factor in disease progression.*  
+- *This pathway plays a **key** role in immune regulation.*  
+
+- *Mutations in this gene are a **key** factor in disease progression.*  
 
 </details>
 
@@ -24,7 +25,7 @@ In most academic prose it **evaluates importance** rather than describing a fixe
 ### **2. Hyperbolic**  
 Not inherently hyperbolic.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
 NA
@@ -38,12 +39,12 @@ Often **gratuitous** when modifying nouns that already encode relevance, functio
 
 Can it be removed with little change of meaning?
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Cardiovascular reflexes have a **key** role in regulating blood pressure .*  
+- *Cardiovascular reflexes have a **key** role in regulating blood pressure .*  
 
-*Major users , and the **key** research programs they embrace , have formed a User 's Group along with other , more minor time - requiring users doing pilot feasibility studies .*
+- *Major users , and the **key** research programs they embrace , have formed a User 's Group along with other , more minor time - requiring users doing pilot feasibility studies .*
 
 </details>
 
@@ -52,10 +53,10 @@ Can it be removed with little change of meaning?
 ### **3b. Amplified**  
 Rarely amplified.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*This is absolutely **key** to increasing the number of institutions involved in the biodefense research effort .*
+- *This is absolutely **key** to increasing the number of institutions involved in the biodefense research effort .*
 
 </details>
 
@@ -65,10 +66,10 @@ Rarely amplified.
 Often **stacked **  
 (e.g. *novel and key*, *unique and key*, *key and essential*).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Our studies demonstrate that these kinases play **key** and essential roles for survival of GSCs , raising the possibility that MNK targeting may provide a unique approach for the treatment of GBM .*
+- *Our studies demonstrate that these kinases play **key** and essential roles for survival of GSCs , raising the possibility that MNK targeting may provide a unique approach for the treatment of GBM .*
 
 </details>
 
@@ -77,10 +78,10 @@ Often **stacked **
 ### **3d. Grounds**  
 Sometimes justified by grounds (*because, thus, therefore*).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*TThe specific accumulation of yolk proteins by the oocyte is a cornerstone of egg maturation and , therefore , a **key** element of reproductive physiology .*
+- *TThe specific accumulation of yolk proteins by the oocyte is a cornerstone of egg maturation and , therefore , a **key** element of reproductive physiology .*
 
 </details>
 
@@ -90,12 +91,12 @@ Sometimes justified by grounds (*because, thus, therefore*).
 Common. 
 - Hedged: *may be key*, *could be key*
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Potentially **key** co-determinants of PFO pathogenicity have emerged with recent identification of a host of venous prothrombotic factors that could heighten the risk of paradoxical embolization .*  
+- *Potentially **key** co-determinants of PFO pathogenicity have emerged with recent identification of a host of venous prothrombotic factors that could heighten the risk of paradoxical embolization .*  
 
-*Enhancing these mechanisms of repair may be **key** to designing therapies to improve recovery and attenuate disability after stroke .*
+- *Enhancing these mechanisms of repair may be **key** to designing therapies to improve recovery and attenuate disability after stroke .*
 
 </details>
 

@@ -10,12 +10,12 @@ Usually expresses a **strong value judgement** (necessity or non-replaceability)
 
 **Not a value judgement** when used in a **technical sense**, referring to a required biological or chemical entity / process (e.g. *indispensable amino acids*, *indispensable regulator*, *indispensable enzyme*).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*IdeR is an **indispensable** protein , as its structural gene cannot ordinarily be inactivated , and we have shown that IdeR is also a positive regulator of iron storage genes .*  
+- *IdeR is an **indispensable** protein , as its structural gene cannot ordinarily be inactivated , and we have shown that IdeR is also a positive regulator of iron storage genes .*  
 
-*We will determine the roles of the conditionally **indispensable** amino acid precursors of GSH synthesis ( glutamate / glutamine , glycine and cysteine ) in the regulation of glutathione metabolism after burn injury .*
+- *We will determine the roles of the conditionally **indispensable** amino acid precursors of GSH synthesis ( glutamate / glutamine , glycine and cysteine ) in the regulation of glutathione metabolism after burn injury .*
 
 </details>
 
@@ -24,12 +24,12 @@ Usually expresses a **strong value judgement** (necessity or non-replaceability)
 ### **2. Hyperbolic**  
 Usually **yes** - it expresses an absolute claim of necessity.  
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*This grant will also provide **indispensable** support for an aspiring clinician scientist in an outstanding environment at the University of Pennsylvania , Perelman School of Medicine .*
+- *This grant will also provide **indispensable** support for an aspiring clinician scientist in an outstanding environment at the University of Pennsylvania , Perelman School of Medicine .*
 
-*The resource is **indispensable** for the Cancer Center program in Structural and Chemical Biology .*
+- *The resource is **indispensable** for the Cancer Center program in Structural and Chemical Biology .*
 
 </details>
 
@@ -38,11 +38,12 @@ Usually **yes** - it expresses an absolute claim of necessity.
 ### **3a. Gratuitous**  
 Often **gratuitous** and seems to merely add value judgement when modifying nouns (e.g. *role*, *tool*, *component*, *part*, *function*, *step*).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*While behavior change is an **indispensable** component of any effective weight loss approach , adjunctive strategies such as pharmacotherapy may enhance health outcomes .*  
-*The obtained results will be **indispensable** for selection of proper lipids and guiding in meso crystallization experiments .*
+- *While behavior change is an **indispensable** component of any effective weight loss approach , adjunctive strategies such as pharmacotherapy may enhance health outcomes .*  
+
+- *The obtained results will be **indispensable** for selection of proper lipids and guiding in meso crystallization experiments .*
 
 </details>
 
@@ -51,10 +52,10 @@ Often **gratuitous** and seems to merely add value judgement when modifying noun
 ### **3b. Amplified**  
 Rarely amplified.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Release of GnRH in a rhythmic manner is absolutely **indispensable** for reproductive function .*
+- *Release of GnRH in a rhythmic manner is absolutely **indispensable** for reproductive function .*
 
 </details>
 
@@ -63,12 +64,12 @@ Rarely amplified.
 ### **3c. Broader context**  
 Sometimes appears in emphatic or promotional framing.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Core C support is critical to approach for aims in each of the projects and thus is **indispensable** for the overall success of the program .*
+- *Core C support is critical to approach for aims in each of the projects and thus is **indispensable** for the overall success of the program .*
 
-*The proposed research is significant because it will demonstrate the **indispensable** importance of structural intestinal damage features for the most accurate predictions of CD course and therapeutic responsiveness in both clinical care and therapeutic trials .*
+- *The proposed research is significant because it will demonstrate the **indispensable** importance of structural intestinal damage features for the most accurate predictions of CD course and therapeutic responsiveness in both clinical care and therapeutic trials .*
 
 </details>
 
@@ -78,12 +79,12 @@ Sometimes appears in emphatic or promotional framing.
 Sometimes follows explanation or justification  
 (X → therefore indispensable).
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
-*Core C support is critical to approach for aims in each of the projects and thus is **indispensable** for the overall success of the program .*
+- *Core C support is critical to approach for aims in each of the projects and thus is **indispensable** for the overall success of the program .*
 
-*Although interpretation of experiments involving genetic manipulation of mice must be performed with care , the ability to monitor changes in the CNS in vivo upon modification of a single gene makes this technique an **indispensable** tool for modern inquiry in neurobiology .*
+- *Although interpretation of experiments involving genetic manipulation of mice must be performed with care , the ability to monitor changes in the CNS in vivo upon modification of a single gene makes this technique an **indispensable** tool for modern inquiry in neurobiology .*
 
 </details>
 
@@ -92,7 +93,7 @@ Sometimes follows explanation or justification
 ### **3e. Relative / Hedged**  
 Rarely relative or hedged.
 
-<details>
+<details markdown="1">
 <summary><em>Examples</em></summary>
 
 NA
