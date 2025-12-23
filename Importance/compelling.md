@@ -85,7 +85,7 @@ Frequently appears in stacked persuasive or promotional environments.
 
 - *The plan would be anchored by strategic messaging and a unique and **compelling** visual identity …*  
 
-- *This hypothesis becomes even more **compelling**a nd exciting in light of emerging evidence …*
+- *This hypothesis becomes even more **compelling** and exciting in light of emerging evidence …*
 
 </details>
 
