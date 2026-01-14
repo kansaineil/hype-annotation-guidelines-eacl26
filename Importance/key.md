@@ -6,7 +6,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Usually, **yes**. **Value-judgemen** when expresses **importance, centrality, or salience** (≈ *important, crucial, central*).  
+Usually, **yes**. **Value-judgement** when expresses **importance, centrality, or salience** (≈ *important, crucial, central*).  
 In most academic prose it **evaluates importance** rather than describing a fixed property.
 
 **Not a value judgement** when *key* refers to a **technical object/function** (e.g.  *key residue*) - rare.
