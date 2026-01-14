@@ -94,7 +94,7 @@ Hedging common - *may*.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The primary goal of this research is to better understand the role that individual neurotransmitters plan in the processing of visual information and whether individual neurotransmitters may be *major* factors in visual deprivation .*
+- *The primary goal of this research is to better understand the role that individual neurotransmitters plan in the processing of visual information and whether individual neurotransmitters may be **major** factors in visual deprivation .*
 
 </details>
 
