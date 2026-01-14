@@ -13,9 +13,9 @@ Usually a **value judgement** - adds a **prestige-signalling layer** (importance
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-*The overarching **strategic** plan of this SPORE is to develop methods for identifying persons at greatest risk for developing lung cancer and then preventing this progression .* 
+- *The overarching **strategic** plan of this SPORE is to develop methods for identifying persons at greatest risk for developing lung cancer and then preventing this progression .* 
 
-- *Anxious individuals direct their attention toward threat during early , automatic stages of processing , whereas during later , more **strategic** stages of processing , they tend to direct their attention away from threat .*
+- *Anxious individuals direct their attention toward threat during early , automatic stages of processing , whereas during later , more **strategic** stages of processing , they tend to direct their attention away from threat .* (non-value judgement)
 
 
 </details>
