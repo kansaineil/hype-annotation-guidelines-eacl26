@@ -2,7 +2,9 @@
 title: Hype Annotation Guidelines
 nav_order: 1
 ---
-
+EACL 2026
+# Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research
+*Bojan Batalo, Erica K. Shimomoto, Dipesh Satav, Neil Millar*
 # Hype Annotation Guidelines
 
 These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide:  
@@ -183,11 +185,5 @@ For guidance on specifc adjectives, see the category and adjective pages below.
 
 ### Browse by category
 
-- [Importance](Importance/index.md)
 - [Novelty](Novelty/index.md)
 - [Rigor](Rigor/index.md)
-- [Scale](Scale/index.md)
-- [Utility](Utility/index.md)
-- [Quality](Quality/index.md)
-- [Attitude](Attitude/index.md)
-- [Problem](Problem/index.md)
