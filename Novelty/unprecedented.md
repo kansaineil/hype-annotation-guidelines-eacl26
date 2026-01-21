@@ -6,12 +6,12 @@ parent: Novelty
 ---
 
 ### **1. Value-judgement**  
-Yes — presents the entity as exceptional / beyond prior experience.
+Yes — implies exceptional status (“beyond what has been seen before”).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The **unprecedented** scale and complexity of these data sets, however, have presented critical computational bottlenecks …*
+- *We now have an **unprecedented** opportunity to study disease progression across the lifespan.*
 
 </details>
 
@@ -23,14 +23,14 @@ Yes — hyperbolic / exaggerated.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The **unprecedented** scale and complexity of these data sets, however, have presented critical computational bottlenecks …*
+- *This platform enables **unprecedented** insight into immune cell dynamics.*
 
 </details>
 
 ---
 
 ### **3. Gratuitous**  
-Often gratuitous, especially when the sentence does not specify *what* makes it beyond precedent (e.g., no comparison or concrete benchmark).
+Often gratuitous.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -47,7 +47,7 @@ Can be amplified by boosters (e.g., *truly*, *absolutely*, *entirely*).
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The truly **unprecedented** scale and complexity of these data sets have presented critical computational bottlenecks …*
+- *Our approach provides truly **unprecedented** sensitivity at low viral loads.*
 
 </details>
 
@@ -59,7 +59,7 @@ May be coordinated with other evaluative adjectives (stacking).
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The **unprecedented** and remarkable scale of these data sets has presented critical computational bottlenecks …*
+- *This study combines an **unprecedented** and innovative dataset with a new analytic framework.*
 
 </details>
 
@@ -71,7 +71,7 @@ When ambiguous, check for nearby hype candidates or overt amplification.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *This transformative work addresses a critical gap and leverages the **unprecedented** scale and complexity of these data sets …*
+- *Parallel to the outstanding NCRR and overall | NIH support to Scripps , the Scripps Health system has provided a massive , **unprecedented** investment that fully | certifies its priority and willingness to take on risk to promote heightened academic transformation .*
 
 </details>
 
