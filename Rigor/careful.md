@@ -6,8 +6,7 @@ parent: Rigor
 ---
 
 ### **1. Value-judgement**  
-- Almost always yes. Typically evaluates rigour/diligence rather than a verifiable property.  
-- In research contexts, functions as normative praise.
+Almost always yes. Typically evaluates rigour/diligence rather than a verifiable property. In research contexts, functions as normative praise.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -19,7 +18,7 @@ parent: Rigor
 ---
 
 ### **2. Hyperbolic**  
-- Not inherently hyperbolic.
+Not inherently hyperbolic.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -30,34 +29,34 @@ NA
 
 ---
 
-### **3a. Gratuitous**  
-- Often gratuitous with method/process/research nouns where diligence is presupposed (e.g., *analysis, assessment, evaluation, study, examination, monitoring, consideration, selection, investigation, review, design, measurement, validation, documentation, planning*).
+### **3. Gratuitous**  
+Often gratuitous with method/process/research nouns where diligence is already presupposed (e.g., *analysis, assessment, evaluation, study, examination, monitoring, consideration, selection, investigation, review, design, measurement, validation, documentation, planning*).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *Thus, there is a need for more **careful** study, collection of more data using standardized methods over a larger cohort in the PICU.* (Gratuitous / relative)
+- *We conducted a **careful** analysis of the results.*  
 
-- *We conducted a **careful** analysis of the results.* (Gratuitous)
+- *The protocol includes **careful** documentation of all procedures.*
 
 </details>
 
 ---
 
-### **3b. Amplified**  
-- Occasionally amplified (e.g., *very careful*).
+### **4. Amplified**  
+Occasionally amplified (e.g., *very careful*).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *This requires a very **careful** review of the protocol before implementation.*
+- *This requires a very **careful** review of the protocol.*
 
 </details>
 
 ---
 
-### **3c. Broader context**  
-- Sometimes stacked with other rigour adjectives (e.g., *systematic, detailed, thorough, comprehensive, rigorous, extensive, precise, accurate, critical, exhaustive, thoughtful, consistent, judicious, methodical*).
+### **5. Coordinated**  
+Sometimes coordinated/stacked with other rigour adjectives (e.g., *systematic, detailed, thorough, comprehensive, rigorous, extensive, precise, accurate, critical, exhaustive, intensive, thoughtful, consistent, judicious, methodical*).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -68,21 +67,9 @@ NA
 
 ---
 
-### **3d. Grounds**  
-- Rarely justified by evidence.
-
-<details markdown="1">
-<summary><em>Examples</em></summary>
-
-NA
-
-</details>
-
----
-
-### **3e. Relative / Hedged**  
-- Sometimes framed in relative terms (e.g., *more careful analysis*, *need for careful*).  
-- Usually not hedged.
+### **6. Broader context**  
+When ambiguous, consider whether the sentence contains other potential hype candidates or overt amplification nearby.  
+Also note that relative framing (e.g., *more careful*, *need for careful*) may weaken promotional force.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
