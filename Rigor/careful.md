@@ -74,7 +74,7 @@ Also note that relative framing (e.g., *more careful*, *need for careful*) may w
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *Thus, there is a need for more **careful** study, collection of more data using standardized methods over a larger cohort in the PICU.*
+- *Thus, there is a need for more **careful** study, collection of more data using standardized methods over a larger cohort in the PICU.* (NOT HYPE)
 
 </details>
 
