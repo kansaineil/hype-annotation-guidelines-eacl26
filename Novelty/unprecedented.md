@@ -3,10 +3,6 @@ title: Unprecedented
 parent: Novelty
 ---
 
-title: Unprecedented
-parent: Novelty
----
-
 ---
 
 ### **1. Value-judgement**  
