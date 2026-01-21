@@ -74,7 +74,7 @@ When ambiguous, consider whether surrounding context contributes to or detracts 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *Understanding the role of social networks … is critical to a more **nuanced** and contextualized understanding of infectious disease transmission in border regions.* (Broader context)
+- *Understanding the role of social networks … is necessary for a more **nuanced** and contextualized understanding of infectious disease transmission in border regions.* (Broader context)
 
 </details>
 
