@@ -3,48 +3,95 @@ title: Accurate
 parent: Rigor
 ---
 
-## Accurate - annotation guidance summary
+---
 
-| Criteria | Typical behaviour / interpretation |
-|---------:|----------------------------------|
-| **1. Value-judgement** | Almost always evaluative as it implies correctness / reliability |
-| **2. Hyperbolic** | Not inherently hyperbolic |
-| **3a. Gratuitous** | Potentially redundant with nouns that presuppose correctness (see table below) |
-| **3b. Amplified** | Often intensified by boosters (highly, very) |
-| **3c. Broader context** | Often appears in stacked adjective phrases |
-| **3d. Grounds** | Often justified by evidence (accurate to ##%) (reduces hype) |
-| **3e. Relative / Hedged** | Often framed in relative terms ("more accurate" - comparative framing) (reduce hype) |
+### **1. Value-judgement**  
+- Almost always value-judgement (implies correctness / reliability).
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen.*
+
+</details>
 
 ---
 
-### Noun semantics affecting *accurate*
+### **2. Hyperbolic**  
+- Not inherently hyperbolic.
 
-Some nouns **require** correctness for meaning; others make *accurate* **stylistically optional**.
+<details markdown="1">
+<summary><em>Examples</em></summary>
 
-| Noun category & implication | Example nouns | Effect on interpretation |
-|---------------------------|---------------|-------------------------|
-| **Outcome-entailing** - correctness is already assumed | diagnosis, detection, replication, test | *accurate* may be redundant → potential hype (3a) |
-| **Borderline** - correctness sometimes implied | data, information, assessment, model | Check other criteria (3b–3e) |
-| **Degree-variable** - correctness varies by degree | measurement, prediction, estimation | *accurate* adds meaning → not hype (3a) |
+NA
 
-> Use this table when applying **3a. Gratuitous**.
+</details>
 
 ---
 
-## Annotated examples for *accurate*
+### **3a. Gratuitous**  
+- Often gratuitous with nouns that presuppose correctness, and verbs that encode correctness.
 
-| Relevant criteria | Comment | Corpus example |
-|------------------|---------|----------------|
-| 3a | gratuitous: "diagnosis"  presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
-| 3b; 3c | amplified: “highly”; broader context: stacked with “reproducible” | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
-| 3a; 3c | gratuitous: "determination" presuposes correctness; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
-| 3c | broader context: stacked with "timely" and "comprehensive" | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
-| 3d | grounds: "to within a few percent" | It is **accurate** to within a few percent and has a relative precision of |
-| 3d | grounds: "the most"; ('single' also hype)| The petrosal sinus sampling examination is the single most **accurate** test both for |
-| 3e | relative: "lack of" | The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … |
-| 3e | relative: "more" | Our goal is to provide a more **accurate** picture of the significantly populated conformations … |
-| 3e | relative: "more" | Long-term objectives will include a more **accurate** determination of the number of genes |
-| 3e | relative: "equally" | The device was equally **accurate** regardless of years of experience or level of training . |
-| 3e | relative: "less and less" | Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . |
+Nouns that may presuppose correctness: *diagnosis, assessment, measurement, prediction, identification, detection, determination, quantification, estimation, evaluation, analysis, interpretation, classification, staging, localization, mapping, registration, reporting, screening, monitoring, characterization, delineation, discrimination, replication, segregation, transcription*
+
+Verbs that may presuppose correctness: *ensure, require, assure, maintain, establish, permit, allow, enable, support*
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen.*
+
+- *In order to ensure **accurate** chromosome segregation duplicated sister chromatids must be dramatically condensed and individualized upon entry into mitosis.*
+
+</details>
+
+---
+
+### **3b. Amplified**  
+- Often amplified: *highly, the most, very, extremely, remarkably, exquisitely, completely, entirely, fully, truly, incredibly, particularly*
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *The experimental studies will be highly **accurate** X-ray and neutron diffraction analysis of about ten selected phosphate crystal structures.*
+
+</details>
+
+---
+
+### **3c. Broader context**  
+- Usually stacked with other “performance” adjectives: *rapid, efficient, sensitive, early, timely, fast, reliable, robust, succinct, comprehensive, safe, effective, reproducible, simple, practical, inexpensive, quick, prompt, powerful, useful, smooth, concise, novel, secure, thorough, feasible, informative, accessible, easy, versatile*
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *Provide **accurate**, timely, comprehensive, and standardized postmortem examinations…*
+
+</details>
+
+---
+
+### **3d. Grounds**  
+- Sometimes justified by evidence.
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *It is **accurate** to within a few percent and has a relative precision of …*
+
+</details>
+
+---
+
+### **3e. Relative / Hedged**  
+- Often framed in relative terms (e.g., “lack of accurate X”, “need more accurate X”).
+- Usually not hedged.
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+- *The lack of **accurate** tools for clinical diagnosis and of a vaccine for leishmaniasis poses a serious health risk for U.S. military personnel, their families and tourists, either living or travelling in endemic areas.*
+
+</details>
 
 [Back to Rigor](index.md) · [Back to top](#accurate--annotation-guidance-summary)
