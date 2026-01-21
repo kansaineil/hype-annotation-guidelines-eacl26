@@ -16,8 +16,6 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ## 1. Overview of annotation criteria {#overview}
 
-## 1. Overview of annotation criteria {#overview}
-
 | Order | Decision | Type | Effect |
 |------:|----------|------|--------|
 | **1** | [Value-judgement](#step1) | Gatekeeping | If **NO** → **NOT HYPE** (stop) |
