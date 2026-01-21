@@ -10,21 +10,22 @@ EACL 2026
 These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide:  
 1. An overview of the general annotation criteria,  
 2. Explanations of the criteria, and  
-3. Links to adjective-specific guidance.
+3. Links to adjective-specific guidance for NOVELTY and RIGOUR
 
 ---
 
 ## 1. Overview of annotation criteria {#overview}
 
+## 1. Overview of annotation criteria {#overview}
+
 | Order | Decision | Type | Effect |
 |------:|----------|------|--------|
-| **1** | [Value-judgement](#step1) | Gatekeeping | If **NO** → Not hype (stop) |
-| **2** | [Hyperbolic](#step2) | Strong override | If **YES** → Hype |
-| **3a** | [Gratuitous](#step3a) | Hype-increasing | Adds promotional force |
-| **3b** | [Amplified](#step3b) | Hype-increasing | Adds promotional force |
-| **3c** | [Broader context](#step3c) | Hype-increasing | Adds promotional force |
-| **3d** | [Grounds](#step3d) | Hype-reducing | Counters promotional force |
-| **3e** | [Relative / Hedged](#step3e) | Hype-reducing | Counters promotional force |
+| **1** | [Value-judgement](#step1) | Gatekeeping | If **NO** → **NOT HYPE** (stop) |
+| **2** | [Hyperbolic](#step2) | Strong override | If **YES** → **HYPE** (stop) |
+| **3** | [Gratuitous](#step3) | Hype-trigger | If **YES** → **HYPE** |
+| **4** | [Amplified](#step4) | Hype-trigger | If **YES** → **HYPE** |
+| **5** | [Coordinated](#step5) | Hype-trigger | If **YES** → **HYPE** |
+| **6** | [Broader context](#step6) | Tie-breaker | When ambiguous: if **YES** → **HYPE**, else **NOT HYPE** |
 
 ---
 
@@ -41,20 +42,25 @@ Hyperbolic?
  └── NO
        │
        ▼
-Evaluate Step 3 signals:
-
-Hype-increasing:
- 3a Gratuitous
- 3b Amplified
- 3c Broader context
-
-Counter-signals:
- 3d Grounds
- 3e Relative / Hedged
-
-Final decision:
-If hype-increasing > hype-reducing → HYPE
-Else → NOT HYPE
+Gratuitous?
+ ├── YES → HYPE
+ └── NO
+       │
+       ▼
+Amplified?
+ ├── YES → HYPE
+ └── NO
+       │
+       ▼
+Coordinated (stacked with other hype candidates)?
+ ├── YES → HYPE
+ └── NO
+       │
+       ▼
+Broader context (when ambiguous):
+ other hype nearby or overt amplification?
+ ├── YES → HYPE
+ └── NO  → NOT HYPE
 ``` 
 
 ## 2. Explanation of the criteria
@@ -66,13 +72,16 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step1"></a>
 ### Step 1. Value-judgement
 
-**Question:** Does the adjective add a postive value judgement?
+**Question:** Does the adjective imply a positive value judgement?
 
-**YES → Potentially HYPE** (Most adjectives imply a value judgement)
-→ Continue to Step 2.
+**YES →** Continue to Step 2.  
+- Most evaluative adjectives will imply a value judgement. This includes priority claims:  
+  - *Our study will be the first to …*
 
-**NO → Likely NOT HYPE** (Typically, proper nouns, technical/domain-specific and literal meaning)
-→ Code as NOT HYPE.
+**NO → NOT HYPE**  
+- Typically acronyms, technical/domain-specific meaning, or literal/label uses:  
+  - *To aid these efforts, Creative Scientist, Inc. (CSI) …*  
+  - *In the first aim we test the hypothesis …*
 
 [Back to overview](#overview)
 
@@ -81,107 +90,90 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step2"></a>
 ### Step 2. Hyperbolic
 
-**Question:** Is the adjective hyperbolic?
+**Question:** Is the adjective hyperbolic or exaggerated?
 
 **YES → HYPE**  
-- Relatively closed class (e.g., *revolutionary*, *groundbreaking*, *superb*, *tremendous*)
+- A relatively closed / unambiguous class (often pre-determinable):  
+  - *revolutionary; unprecedented; unparalleled; groundbreaking*
 
-**NO →** Continue to Step 3a.
+**NO →** Continue to Step 3.
 
 [Back to overview](#overview)
 
 ---
 
-<a id="step3a"></a>
-### Step 3a. Gratuitous
+<a id="step3"></a>
+### Step 3. Gratuitous
 
 **Question:** Is the adjective gratuitous, adding little to the propositional content?
 
 **YES → HYPE**  
-- Removing the adjective does not change meaning substanially
+- If removed, the propositional content and structural integrity of the sentence remain basically unchanged (often attributive use):  
+  - *To address this, we developed 2 innovative technologies.*  
+  - *Delivering SGR interventions via text messaging is an innovative (one) way to increase the reach of this cessation intervention …*  
+- Redundant / tautological use (e.g., “novel” adds little beyond the surrounding wording):  
+  - *discovered a novel gene*
 
-**NO → NOT HYPE**
-
-[Back to overview](#overview)
-
----
-
-<a id="step3b"></a>
-### Step 3b. Amplified
-
-**Question:** Is the strength of the adjective amplified?
-
-**YES → HYPE**
-
-| Pattern type | Generic pattern |
-|--------------|----------------|
-| Adverbial booster | “X is highly / very / extremely / fully / completely [adjective]” |
-| Intensifying stance verb | “ Method X ensures|guarantees [adjective] results”|
-
-**NO →** Continue to Step 3c.
+**NO →** Continue to Step 4.  
+- If removed, the propositional content of the sentence would be substantially altered:  
+  - *This is a high risk and high impact project that uses a novel approach to aggressively treat local-regional disease.*  
+- Justification is provided for the claim (often predicative use):  
+  - *The proposed study is innovative because no previous research has identified how MBC …*
 
 [Back to overview](#overview)
 
 ---
 
-<a id="step3c"></a>
-### Step 3c. Grounds
+<a id="step4"></a>
+### Step 4. Amplified
 
-**Question:** Are grounds (i.e., justifications) given?
-
-**YES → NOT HYPE**
-
-| Pattern type | Generic pattern |
-|--------------|----------------|
-| Explicit justification | “X is [adjective] because …” |
-| Conditional justification | “If …, then X becomes [adjective]” |
-| Procedural/evidential justification | “Using method M, X is [adjective]” |
-| Contrastive justification | “Unlike previous approaches, X is [adjective]” |
-| Reference to assessment | “Analysis shows X is [adjective]” |
-
-**NO →** Continue to Step 3d.
-
-[Back to overview](#overview)
-
----
-
-<a id="step3d"></a>
-### Step 3d. Broader context
-
-**Question:** Are broader context signals present?
+**Question:** Is the strength of the adjective amplified (made stronger through modifiers or framing)?
 
 **YES → HYPE**  
-- Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
-- Promotional context nearby
+- Modifier amplification:  
+  - *truly novel; highly innovative; completely unique; etc.*
 
-**NO →** Continue to Step 3e.
+**NO →** Continue to Step 5.
 
 [Back to overview](#overview)
 
 ---
 
-<a id="step3e"></a>
-### Step 3e. Relative / Hedged
+<a id="step5"></a>
+### Step 5. Coordinated
 
-**Question:** Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
+**Question:** Is the adjective coordinated with other hype candidates (adjective stacking)?
 
-**YES → NOT HYPE**
+**YES → HYPE**  
+- Coordinated/stacked evaluatives:  
+  - *innovative and creative leader*  
+  - *…creative, collaborative, and culturally diverse translational scientists.*
 
-| Pattern type | Generic pattern |
-|--------------|----------------|
-| Comparative | “X is more [adjective] than Y” |
-| Negative limitation | “There is a lack of [adjective] methods …” |
-| Change framing | “This leads to increasingly [adjective] performance under condition C” |
-| Scope restriction | “For specific cases, results are [adjective]” |
-| Modal hedging | “The approach may be [adjective]” |
+**NO →** Continue to Step 6.
 
-**NO →** Consider cumulative effect of criteria
+[Back to overview](#overview)
+
+---
+
+<a id="step6"></a>
+### Step 6. Broader context
+
+**Use when ambiguous.**
+
+**Question:** Does the surrounding sentence/nearby text contain other instances of potential hype or overt amplification?
+
+**YES → HYPE**  
+**NO → NOT HYPE**
+
+Examples:
+- *This transformative work will be the first study to achieve this level of …*  
+- *The faculty has an outstanding track record of creative and high-profile research, superb mentoring, and robust research funding, and thus attracts outstanding trainees.*
 
 [Back to overview](#overview)
 
 ## 3. Adjective specific guidance
 
-For guidance on specifc adjectives, see the category and adjective pages below.
+For guidance on specific adjectives, see the category and adjective pages below.
 
 ### Browse by category
 
