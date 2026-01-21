@@ -77,7 +77,7 @@ Often coordinated/stacked with other novelty/strength terms (e.g., *novel, innov
 ---
 
 ### **6. Broader context**  
-When ambiguous, consider surrounding context such as relative framing (e.g., *more advanced*) and additional evaluative language.
+When ambiguous, consider surrounding context. Also note that relative/negated framing (e.g., *more X*, *lack of X*, *need for X*) may weaken promotional force.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
