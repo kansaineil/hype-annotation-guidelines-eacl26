@@ -75,11 +75,11 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **Question:** Does the adjective imply a positive value judgement?
 
 **YES →** Continue to Step 2.  
-- Most evaluative adjectives will imply a value judgement. This includes priority claims:  
+- Most adjectives will imply a value judgement. This includes priority claims:  
   - *Our study will be the first to …*
 
 **NO → NOT HYPE**  
-- Typically acronyms, technical/domain-specific meaning, or literal/label uses:  
+- Typically acronyms, technical/domain-specific meaning, or literal uses:  
   - *To aid these efforts, Creative Scientist, Inc. (CSI) …*  
   - *In the first aim we test the hypothesis …*
 
