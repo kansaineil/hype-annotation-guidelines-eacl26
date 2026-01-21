@@ -160,14 +160,20 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Use when ambiguous.**
 
-**Question:** Does the surrounding sentence/nearby text contain other instances of potential hype or overt amplification?
+**Question:** Does the surrounding sentence/nearby text **contribute to** or **detract from** the overall promotional force?
 
-**YES → HYPE**  
-**NO → NOT HYPE**
+- **Contributes**: other potential hype terms or overt amplification nearby  
+- **Detracts**: relative/hedged framing that limits the claim (e.g., *more X*, *lack of X*, *need for X*, *may be X*)
+
+**Decision:**
+- If context contributes overall → **HYPE**
+- If context detracts overall → **NOT HYPE**
 
 Examples:
-- *This transformative work will be the first study to achieve this level of …*  
-- *The faculty has an outstanding track record of creative and high-profile research, superb mentoring, and robust research funding, and thus attracts outstanding trainees.*
+- *This transformative work will be the **first** study to achieve this level of …*  (HYPE)
+- *The faculty has an outstanding track record of creative and high-profile research, superb mentoring, and robust research funding, and thus attracts **outstanding** trainees.*  (HYPE)
+- *Thus, there is a need for more **careful** study …*  (NOT HYPE)
+- *The lack of **accurate** tools for clinical diagnosis …* (NOT HYPE)
 
 [Back to overview](#overview)
 
