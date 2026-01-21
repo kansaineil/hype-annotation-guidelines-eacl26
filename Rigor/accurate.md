@@ -6,7 +6,7 @@ parent: Rigor
 ---
 
 ### **1. Value-judgement**  
-- Almost always value-judgement (implies correctness / reliability).
+Almost always value-judgement (implies correctness / reliability).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -18,7 +18,7 @@ parent: Rigor
 ---
 
 ### **2. Hyperbolic**  
-- Not inherently hyperbolic.
+Not inherently hyperbolic.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -29,8 +29,8 @@ NA
 
 ---
 
-### **3a. Gratuitous**  
-- Often gratuitous with nouns that presuppose correctness, and verbs that encode correctness.
+### **3. Gratuitous**  
+Often gratuitous with nouns that presuppose correctness, and verbs that encode correctness.
 
 Nouns that may presuppose correctness: *diagnosis, assessment, measurement, prediction, identification, detection, determination, quantification, estimation, evaluation, analysis, interpretation, classification, staging, localization, mapping, registration, reporting, screening, monitoring, characterization, delineation, discrimination, replication, segregation, transcription*
 
@@ -47,8 +47,8 @@ Verbs that may presuppose correctness: *ensure, require, assure, maintain, estab
 
 ---
 
-### **3b. Amplified**  
-- Often amplified: *highly, the most, very, extremely, remarkably, exquisitely, completely, entirely, fully, truly, incredibly, particularly*
+### **4. Amplified**  
+Often amplified: *highly, the most, very, extremely, remarkably, exquisitely, completely, entirely, fully, truly, incredibly, particularly*
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -59,8 +59,8 @@ Verbs that may presuppose correctness: *ensure, require, assure, maintain, estab
 
 ---
 
-### **3c. Broader context**  
-- Usually stacked with other “performance” adjectives: *rapid, efficient, sensitive, early, timely, fast, reliable, robust, succinct, comprehensive, safe, effective, reproducible, simple, practical, inexpensive, quick, prompt, powerful, useful, smooth, concise, novel, secure, thorough, feasible, informative, accessible, easy, versatile*
+### **5. Coordinated**  
+Often coordinated/stacked with other “performance” adjectives (e.g., rapid, efficient, sensitive, early, timely, fast, reliable, robust, succinct, comprehensive, safe, effective, reproducible, simple, practical, inexpensive, quick, prompt, powerful, useful, smooth, concise, novel, secure, thorough, feasible, informative, accessible, easy, versatile).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -71,27 +71,18 @@ Verbs that may presuppose correctness: *ensure, require, assure, maintain, estab
 
 ---
 
-### **3d. Grounds**  
-- Sometimes justified by evidence.
+### **6. Broader context**  
+When ambiguous, consider nearby context that strengthens or weakens the promotional force (e.g., explicit justification, or relative framing such as “lack of” / “need more”).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
 - *It is **accurate** to within a few percent and has a relative precision of …*
 
-</details>
-
----
-
-### **3e. Relative / Hedged**  
-- Often framed in relative terms (e.g., “lack of accurate X”, “need more accurate X”).
-- Usually not hedged.
-
-<details markdown="1">
-<summary><em>Examples</em></summary>
-
-- *The lack of **accurate** tools for clinical diagnosis and of a vaccine for leishmaniasis poses a serious health risk for U.S. military personnel, their families and tourists, either living or travelling in endemic areas.*
+- *The lack of **accurate** tools for clinical diagnosis and of a vaccine for leishmaniasis poses a serious health risk for U. S. military personnel, their families and tourists, either living or travelling in endemic areas.*
 
 </details>
 
-[Back to Rigor](index.md) · [Back to top](#accurate--annotation-guidance-summary)
+</details>
+
+[Back to Rigor](index.md) 
