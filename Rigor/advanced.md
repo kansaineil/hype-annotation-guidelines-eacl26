@@ -85,3 +85,5 @@ When ambiguous, consider surrounding context. Also note that relative/negated fr
 - *…could lead to more **advanced** and timely treatments for those with spinal cord injuries … in the Veteran population.* (Relative / broader context)
 
 </details>
+
+[⬅ Back to Rigor](./index.md)
