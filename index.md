@@ -58,9 +58,9 @@ Coordinated (stacked with other hype candidates)?
        │
        ▼
 Broader context (when ambiguous):
- other hype nearby or overt amplification?
- ├── YES → HYPE
- └── NO  → NOT HYPE
+Does the nearby context overall strengthen or limit the promotional force?
+ ├── Strengthens (other hype / amplification) → HYPE
+ └── Limits (grounds or hedging/relative)     → NOT HYPE
 ``` 
 
 ## 2. Explanation of the criteria
@@ -160,20 +160,21 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Use when ambiguous.**
 
-**Question:** Does the surrounding sentence/nearby text **contribute to** or **detract from** the overall promotional force?
+**Question:** Does the surrounding sentence/nearby text *overall* **strengthen** or **limit** the promotional force?
 
-- **Contributes**: other potential hype terms or overt amplification nearby  
-- **Detracts**: relative/hedged framing that limits the claim (e.g., *more X*, *lack of X*, *need for X*, *may be X*)
+- **Strengthens**: other potential hype terms or overt amplification nearby  
+- **Limits**: **grounds** are given (justification/operationalization), or relative/hedged framing restricts the claim (e.g., *more X*, *lack of X*, *need for X*, *may be X*)
 
 **Decision:**
-- If context contributes overall → **HYPE**
-- If context detracts overall → **NOT HYPE**
+- If context strengthens overall → **HYPE**
+- If context limits overall → **NOT HYPE**
 
 Examples:
-- *This transformative work will be the **first** study to achieve this level of …*  (HYPE)
-- *The faculty has an outstanding track record of creative and high-profile research, superb mentoring, and robust research funding, and thus attracts **outstanding** trainees.*  (HYPE)
-- *Thus, there is a need for more **careful** study …*  (NOT HYPE)
+- *This transformative work will be the **first** study to achieve this level of …* (HYPE)
+- *The faculty has an outstanding track record of creative and high-profile research, superb mentoring, and robust research funding, and thus attracts **outstanding** trainees.* (HYPE)
+- *Thus, there is a need for more **careful** study …* (NOT HYPE)
 - *The lack of **accurate** tools for clinical diagnosis …* (NOT HYPE)
+- *It is **accurate** to within a few percent …* (NOT HYPE)
 
 [Back to overview](#overview)
 
