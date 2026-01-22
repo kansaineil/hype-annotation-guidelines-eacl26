@@ -25,7 +25,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 | **3** | [Gratuitous](#step3) | Hype-trigger | If **YES** → **HYPE** |
 | **4** | [Amplified](#step4) | Hype-trigger | If **YES** → **HYPE** |
 | **5** | [Coordinated](#step5) | Hype-trigger | If **YES** → **HYPE** |
-| **6** | [Broader context](#step6) | Tie-breaker | When ambiguous: if **YES** → **HYPE**, else **NOT HYPE** |
+| **6** | [Broader context](#step6) | Tie-breaker | When ambiguous: if context **strengthens** promotional force → **HYPE**; if it **limits** promotional force (grounds given and/or hedged/relative framing) → **NOT HYPE** |
 
 ---
 
